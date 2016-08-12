@@ -1,5 +1,5 @@
 # Kiwix (Wikipedia) Installer
-Bash script to setup and install local Wikipedia HTTP server using Kiwix.
+Bash script to setup and install local Wikipedia HTTP server using [Kiwix](http://kiwix.org/).
 
 # Usage
 ```
@@ -14,8 +14,8 @@ Please open the file and see the configuration section for available variables w
 
 # License
 
-Kiwix Installer: Script to setup specific language wikipedia dump in local and serve it through kiwix_server.
-Copyright (C) 2016  Alagunambi Welkin
+Kiwix Installer: Script to setup specific language wikipedia dump in local and serve it through [kiwix_server](http://www.kiwix.org/wiki/Kiwix-serve).
+Copyright (C) 2016 [Alagunambi Welkin](https://www.facebook.com/alagunambiwelkin/)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
